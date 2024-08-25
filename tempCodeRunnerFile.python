@@ -1,3 +1,0 @@
-if Deposit == type(float):
-#     print("Deposited Into Account ",Deposit)
-#     print("Corrent Availble Balance into A/c",Balance)
